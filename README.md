@@ -1,9 +1,9 @@
 ﻿# Web-Portofolio
  
-##Install the library using the following command
+Install the library using the following command
 ### `npm install`
 
-##To run, type the following command:
+To run, type the following command:
 ### `npm start`
 
 Runs the app in the development mode.\
